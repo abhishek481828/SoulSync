@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="1200" height="475" alt="SoulSync Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
 # SoulSync — Student Mental Wellness Space
 
 > SoulSync is a lightweight React + Vite app that helps students express mood, find peer matches, and access support resources. It integrates a Gemini-backed AI service for conversational support and mood analysis.
@@ -90,3 +94,13 @@ The app uses a small wrapper in `services/geminiService.ts` to call the Gemini A
 ## License & Credits
 
 This project is provided as-is. Add a license file if you plan to open-source the project.
+
+---
+
+If you'd like, I can also:
+
+- Add a local Tailwind / PostCSS setup for production
+- Add an example `.env.local.example` with required variables
+- Create a short CONTRIBUTING.md with code style and PR checklist
+
+Made with ❤️ — want me to commit this README.md for you? (Already updated in the repo.)
